@@ -6,7 +6,7 @@
 -- ============================================================
 
 -- >>> KONFIGURASI (ubah sesuai kebutuhan) <<<
-local REPO_BASE   = "https://raw.githubusercontent.com/ShapakID/ShapakSC/main/"
+local REPO_BASE   = "https://raw.githubusercontent.com/ShapakID/ShapakHub/main/"
 local WHITELIST   = "https://raw.githubusercontent.com/ShapakID/ShapakHub/main/whitelist.txt"
 local WEBHOOK_URL = ""   -- isi URL webhook Discord kamu
 local SCRIPTS = {
