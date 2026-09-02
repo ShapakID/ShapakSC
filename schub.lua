@@ -11,8 +11,11 @@ local WHITELIST   = "https://raw.githubusercontent.com/ShapakID/ShapakHub/main/w
 local WEBHOOK_URL = ""   -- isi URL webhook Discord kamu
 local SCRIPTS = {
     -- nama tampil di menu  ->  file _enc di repo
-    { name = "SC-1  Rotasi PTHT+PNB",  file = "rotasi_enc" },
-    { name = "SC-2  MyIP",             file = "myip_enc" },
+    { name = "SC-1  Rotasi PTHT+PNB",  file = "rotasi.lua_enc" },
+    { name = "SC-2  PTHT",             file = "ptht.lua_enc" },
+    { name = "SC-3  PNB",              file = "pnb.lua_enc" },
+    { name = "SC-4  Auto Gems",        file = "auto_gems.lua_enc" },
+    { name = "SC-5  MyIP",             file = "myip.lua_enc" },
 }
 -- ---------------------------------------------
 
